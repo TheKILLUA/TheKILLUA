@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i’m a passionate Full-Stack Web Developer with a love for creating dynamic, user-friendly applications. I specialize in building scalable and responsive web applications using modern technologies and frameworks. My goal is to write clean, maintainable code while delivering seamless user experiences.<br>Skills & Technologies<br>Frontend: HTML5, CSS3, JavaScript, React, Vue.js, TailwindCSS, Bootstrap<br>Backend: Node.js, Express.js, Python (Django, Flask), PHP<br>Databases: MongoDB, PostgreSQL, MySQL, Firebase<br>Version Control: Git, GitHub, GitLab<br>Tools & Others: Docker, Webpack, GraphQL, REST APIs, CI/CD, Nginx
+Hi, i’m a passionate Full-Stack Web Developer with a love for creating dynamic, user-friendly applications. I specialize in building scalable and responsive web applications using modern technologies and frameworks. My goal is to write clean, maintainable code while delivering seamless user experiences.
 
 
 ## 🌐 Socials:
